@@ -5,7 +5,7 @@ grand_parent: Meeting Minutes
 ---
 
 # Post-Quantum Cryptography Alliance - Readiness Tracking Working Group Meeting 24 September, 2026
-[**View Recording**]<pending>
+[**View Recording**](https://zoom.us/rec/play/v99yjfsgZc6K-Jz3gKT0qivVK-KWCPqv9O8Gu4F0jIPR6LiRQ568fpTmbL7h4nxpq6bW29cLJsVeqNPx.9Y0z5-XQ9WLEZvGE?accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2Fd0_Hn1z82ZwrDOOBH1tjsUm1CNMsVA6E1BDz7Hnm0L2U4degtSpGUBQT0BVTFg58.ldSuHUiOJyawWJ13)
 *Recordings are also available on your [Open Profile](https://openprofile.dev/my-meetings) page under Past Meetings*  
 [**Join the meeting**](https://zoom-lfx.platform.linuxfoundation.org/meeting/92180236021?password%3Db0389cf7-46b4-4b12-8960-743736597cff&sa=D&source=calendar&ust=1779060340269221&usg=AOvVaw0xXXgXsS7I24ZkWvbZYInS)  
 [**PQCA Meeting Calendar**](https://pqca.org/calendar/)  
@@ -26,20 +26,21 @@ Updegrove LLP, which provides legal counsel to the Linux Foundation.
 ---
 
 ## Attendance (_Alphabetical by 1st name_)
-* [] Aditya Koranga, NgKore \[TAC Chair\]
+* [X] Aditya Koranga, NgKore \[TAC Chair\]
 * [] Alexey Odinokov, PQC Ready
-* [] Andy Warner, Google \[Tracking WG Chair\]
+* [X] Andy Warner, Google \[Tracking WG Chair\]
 * [] Avinash Nagadi
 * [] Basil Hess, IBM
 * [] Bill Turner, PKI Consortium
 * [] Christian Pfister, LGT Bank
 * [] Daniel Speciale, QInsight
-* [] Ganesh Mallya, AppViewX
+* [X] Ganesh Mallya, AppViewX
 * [] Guncha Malik, IBM
 * [] Hart Montgomery, Linux Foundation
 * [] Ian Palmer, GCIB
 * [] Iyán Méndez Veiga, HSLU / ETH Zurich
 * [] Jane Ginn, Cyber Threat Intelligence Network
+* [X] João Rodolfo
 * [] Jeyaganesh Narayanaswamy, AIB (Ireland)
 * [] Kyle Loree, Quantum Algorithms Institute
 * [] Manali Ahirrao
@@ -54,6 +55,7 @@ Updegrove LLP, which provides legal counsel to the Linux Foundation.
 * [] Shubham Kumar, NgKore
 * [] Sogo Pierre Sanon, Hydro Quebec Research Institute
 * [] Thomas Pöppelmann, Google
+* [X] Tommaso Occari, Allianz
 * [] Tushar Shring, Volkswagen
 
 ---
@@ -108,10 +110,10 @@ Have new attendees provide a quick intro (name, company / org, why they are inte
 |--------------|--------|------------------|
 | Add contributions via PRs | All interested parties | Ongoing | 
 | Review PRs | All interested parties | Ongoing | 
-| Commit PRs we agreed on in the 2026-09-10 meeting | Andy Warner | Done |
+| Commit PRs we agreed on in the 2026-09-24 meeting | Andy Warner | Done |
 | Send a reminder ~48 hours before future meetings | Andy Warner | Ongoing |
 | Review the WG Charter | Aditya & Aleksi | Pending |
 
 ---
 
-**Adjourned:** 9:12 am PT.
+**Adjourned:** 9:28 am PT.
